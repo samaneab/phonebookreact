@@ -1,0 +1,27 @@
+.sugg-div{
+    height: 7rem;
+    width: 7rem;
+    background: white;
+    overflow: scroll;
+    position: absolute;
+    z-index: 20;
+    text-align: right;
+    align-items: end;
+}
+
+.sugg-div span{
+cursor: pointer;
+}
+
+.sugg-fname{
+left: 28%;
+}
+
+.sugg-lname{
+    left: 28%;
+    top: 34%;
+}
+
+.btnunit{
+    margin-right: 7.5rem;
+}
